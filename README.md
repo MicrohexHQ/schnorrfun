@@ -1,6 +1,7 @@
 # schnorrfun
 ![](https://github.com/MicrohexHQ/taproot-workshop/blob/master/images/meshichistim-d79ed799d7a9d799d797d799d7a1d798.jpg)
-[As seen on TV!](https://coinspice.io/news/first-bitcoin-cash-schnorr-multisig-transaction-is-a-donation-to-free-ross-ulbricht/)
+
+[As seen on TV!](https://coinspice.io/news/first-bitcoin-cash-schnorr-multisig-transaction-is-a-donation-to-free-ross-ulbricht/)y
 
 1. Everyone runs setup.py to make key shares.
 2. Everyone runs sign.py to sign a transaction.
